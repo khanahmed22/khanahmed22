@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Ahmed
 <h2 style="text-align: center">I am a ReactJS Developer</h2>
-![Muhammad-Ahmed-Khan](https://github.com/khanahmed22/khanahmed22/assets/149488316/9b1621ec-1c8d-44ca-8bd4-aa1fbfee53df)
+
+![Muhammad-Ahmed-Khan](https://github.com/khanahmed22/khanahmed22/assets/149488316/22d272fe-b9fd-4738-8b37-b9176d403e59)
+
 <div align="center"> 
   <a href="mailto:ahmed.mak26@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />

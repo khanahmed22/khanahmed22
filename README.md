@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Ahmed
-<h2 style="text-align: center">I am a ReactJS Developer</h2>
+## Hi there 👋, my name is Ahmed
+<h3 style="text-align: center">I am a ReactJS Developer</h3>
 
 ![Muhammad-Ahmed-Khan](https://github.com/khanahmed22/khanahmed22/assets/149488316/22d272fe-b9fd-4738-8b37-b9176d403e59)
 

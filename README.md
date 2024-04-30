@@ -5,7 +5,7 @@
 
 
 Skills: 
-![react](https://github.com/khanahmed22/khanahmed22/assets/149488316/aa5790b5-6607-4f3d-9f18-edd062a98ebc)
+![react](https://github.com/khanahmed22/khanahmed22/assets/149488316/3ed83631-aa76-4268-a8a0-f1bf3809f9af)
 
 
 

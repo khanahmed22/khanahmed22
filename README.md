@@ -4,7 +4,9 @@
 
 
 
-Skills: **React / HTML / CSS / Javascript / Tailwind / Firebase / Redux**
+Skills: 
+![react](https://github.com/khanahmed22/khanahmed22/assets/149488316/aa5790b5-6607-4f3d-9f18-edd062a98ebc)
+
 
 
 

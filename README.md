@@ -4,7 +4,7 @@
 
 
 
-Skills: **React/HTML/CSS/Javascript/Firebase/Redux**
+Skills: **React/HTML/CSS/Javascript//Tailwind/Firebase/Redux**
 
 
 

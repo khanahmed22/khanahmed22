@@ -6,7 +6,8 @@
 
 # Skills:
 
-![react](https://github.com/khanahmed22/khanahmed22/assets/149488316/3ed83631-aa76-4268-a8a0-f1bf3809f9af) ![html5](https://github.com/khanahmed22/khanahmed22/assets/149488316/30a96cd1-cf61-4005-a9e7-6e08b1186ede) ![css3](https://github.com/khanahmed22/khanahmed22/assets/149488316/c82449c4-0fbc-48fc-bdc0-da1464a01bb4)
+![react](https://github.com/khanahmed22/khanahmed22/assets/149488316/3ed83631-aa76-4268-a8a0-f1bf3809f9af) ![html5](https://github.com/khanahmed22/khanahmed22/assets/149488316/30a96cd1-cf61-4005-a9e7-6e08b1186ede) ![css3](https://github.com/khanahmed22/khanahmed22/assets/149488316/c82449c4-0fbc-48fc-bdc0-da1464a01bb4) ![javascript](https://github.com/khanahmed22/khanahmed22/assets/149488316/98db589e-4ee7-47ce-be51-5519c3a1dc3d)
+
 
 
 

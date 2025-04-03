@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Ahmed
 <h3>I am a Web Developer</h3>
 
-![Linked In Ahmed 2024](https://github.com/khanahmed22/khanahmed22/assets/149488316/12cca3f1-5de4-4346-bed6-ed676eab7310)
+![Image](https://github.com/user-attachments/assets/3a960b52-d27c-496b-8443-e103c7a5fdd0)
 
 <div align="center"> 
   <a href="mailto:ahmed.khans.mk@gmail.com">

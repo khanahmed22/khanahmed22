@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Ahmed
-<h3>I am a ReactJS Developer</h3>
+<h3>I am a Web Developer</h3>
 
 ![Linked In Ahmed 2024](https://github.com/khanahmed22/khanahmed22/assets/149488316/12cca3f1-5de4-4346-bed6-ed676eab7310)
 
 <div align="center"> 
-  <a href="mailto:ahmed.mak26@outlook.com">
+  <a href="mailto:ahmed.khans.mk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a> 
   <a href="https://www.linkedin.com/in/muhammad-ahmed-khan-109079275/" target="_blank">

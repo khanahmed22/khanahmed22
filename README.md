@@ -19,8 +19,7 @@
 
 <h2>Skills</h2>
 
-
-![Image](https://github.com/user-attachments/assets/4b5710e2-2810-414b-bd06-891c9121d147)
+![Image](https://github.com/user-attachments/assets/0e51deab-70a6-4676-9ef5-f637dd51421a)
 ![react](https://github.com/khanahmed22/khanahmed22/assets/149488316/3ed83631-aa76-4268-a8a0-f1bf3809f9af) &nbsp;   
 ![html5](https://github.com/khanahmed22/khanahmed22/assets/149488316/30a96cd1-cf61-4005-a9e7-6e08b1186ede)   &nbsp; 
 ![css3](https://github.com/khanahmed22/khanahmed22/assets/149488316/c82449c4-0fbc-48fc-bdc0-da1464a01bb4) &nbsp;   

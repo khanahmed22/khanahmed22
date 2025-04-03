@@ -19,7 +19,7 @@
 
 <h2>Skills</h2>
 
-![Image](https://github.com/user-attachments/assets/0e6b1791-9b65-437a-ae01-3b03c9aebaec) &nbsp;   ![nextjs]
+![Image](https://github.com/user-attachments/assets/0e6b1791-9b65-437a-ae01-3b03c9aebaec)
 ![react](https://github.com/khanahmed22/khanahmed22/assets/149488316/3ed83631-aa76-4268-a8a0-f1bf3809f9af) &nbsp;   ![html5](https://github.com/khanahmed22/khanahmed22/assets/149488316/30a96cd1-cf61-4005-a9e7-6e08b1186ede)   &nbsp; ![css3](https://github.com/khanahmed22/khanahmed22/assets/149488316/c82449c4-0fbc-48fc-bdc0-da1464a01bb4) &nbsp;  ![javascript](https://github.com/khanahmed22/khanahmed22/assets/149488316/98db589e-4ee7-47ce-be51-5519c3a1dc3d)  &nbsp; ![firebase](https://github.com/khanahmed22/khanahmed22/assets/149488316/0527ebf1-f0a3-4f53-a2e5-8add7a05705e)  &nbsp; ![tailwindcss](https://github.com/khanahmed22/khanahmed22/assets/149488316/a6380889-96b6-40b7-b67d-a97cfb02f498) &nbsp; ![redux](https://github.com/khanahmed22/khanahmed22/assets/149488316/f951d688-c480-46a4-be78-15c7f78c5710) &nbsp;  ![vite-svgrepo-com](https://github.com/khanahmed22/khanahmed22/assets/149488316/a3fc727c-d83d-4fa2-a35a-1c0761b2417d)
  
 

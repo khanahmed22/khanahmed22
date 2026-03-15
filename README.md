@@ -22,7 +22,7 @@
 ![Image](https://github.com/user-attachments/assets/0e51deab-70a6-4676-9ef5-f637dd51421a) &nbsp; 
 ![Image](https://github.com/user-attachments/assets/379eb166-4616-4fd6-b961-a1692861e89a) &nbsp; 
 ![react](https://github.com/khanahmed22/khanahmed22/assets/149488316/3ed83631-aa76-4268-a8a0-f1bf3809f9af) &nbsp;   ![html5](https://github.com/khanahmed22/khanahmed22/assets/149488316/30a96cd1-cf61-4005-a9e7-6e08b1186ede)   &nbsp; 
-![Image](https://github.com/user-attachments/assets/9604d41d-59b2-4d45-b8f7-ba4b0994046a) &nbsp; 
+ &nbsp; 
 ![css3](https://github.com/khanahmed22/khanahmed22/assets/149488316/c82449c4-0fbc-48fc-bdc0-da1464a01bb4) &nbsp;   ![javascript](https://github.com/khanahmed22/khanahmed22/assets/149488316/98db589e-4ee7-47ce-be51-5519c3a1dc3d)  &nbsp; ![firebase](https://github.com/khanahmed22/khanahmed22/assets/149488316/0527ebf1-f0a3-4f53-a2e5-8add7a05705e)  &nbsp; ![tailwindcss](https://github.com/khanahmed22/khanahmed22/assets/149488316/a6380889-96b6-40b7-b67d-a97cfb02f498) &nbsp; <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/a5c01b91-c1a0-4431-bf7b-001b3ed10ac4" /> &nbsp;  ![vite-svgrepo-com](https://github.com/khanahmed22/khanahmed22/assets/149488316/a3fc727c-d83d-4fa2-a35a-1c0761b2417d)
 
  

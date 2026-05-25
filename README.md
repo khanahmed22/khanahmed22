@@ -6,7 +6,7 @@
 I build modern web applications using React, Next.js, TypeScript, and Supabase with a focus on performance, clean UI, and scalable frontend architecture.
 </p>
 
-<img src="https://github.com/user-attachments/assets/3a960b52-d27c-496b-8443-e103c7a5fdd0" alt="Banner" />
+<img width="3884" height="1618" alt="Image" src="https://github.com/user-attachments/assets/d3777fe1-af9f-4ed8-853f-ea6eeb509250" />
 
 ---
 

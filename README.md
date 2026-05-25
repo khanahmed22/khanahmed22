@@ -36,9 +36,9 @@ performant code and ship things that work.
 # Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,supabase,ts,react,html,css,js,firebase,tailwind,vite,git" />
+  <img src="https://skillicons.dev/icons?i=nextjs,supabase,ts,react,html,css,js,firebase,tailwind,vite,git,nodejs,express,postgres" />
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcnui,zustand,reactquery" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcnui,zustand,reactquery,prisma,neon,vercel,netlify" height="48" />
 </p>

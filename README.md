@@ -1,9 +1,14 @@
 ## Hi there 👋, I'm Ahmed
 
-<h3>Front End Developer</h3>
+<h3>Full-Stack Developer</h3>
 
 <p>
-I build modern web applications using React, Next.js, TypeScript, and Supabase with a focus on performance, clean UI, and scalable frontend architecture.
+Full-Stack Developer with 2+ years building and shipping production web applications end-to-end. Solo-founded
+Crimson Castle, a full-stack SaaS platform serving real home chefs, handling everything from PostgreSQL schema
+design and custom API development to AI-powered onboarding and production deployment. Comfortable across the
+entire stack - React/Next.js on the frontend, Node.js/Express/Prisma/PostgreSQL on the backend. I write clean,
+performant code and ship things that work.
+
 </p>
 
 <img width="3884" height="1618" alt="Image" src="https://github.com/user-attachments/assets/d3777fe1-af9f-4ed8-853f-ea6eeb509250" />

@@ -40,5 +40,5 @@ performant code and ship things that work.
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcnui,zustand,reactquery,prisma,neon,vercel,netlify,resend,docker,redis" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcnui,zustand,reactquery,prisma,neon,vercel,netlify,resend,docker,redis,sentry" height="48" />
 </p>
